@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("My first Streamlit app")
+st.title("Book or Wait ✈️")
 
 name = st.text_input("Your name")
 days = st.slider("Days left before departure", 1, 49, 20)
